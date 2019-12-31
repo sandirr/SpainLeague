@@ -1,0 +1,22 @@
+{
+    "name": "Liga Spanyol",
+    "short_name": "SpainLeague",
+    "description": "Aplikasi untuk menampilkan klasemen dan profil klub liga Spanyol",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "678439422852"
+}
